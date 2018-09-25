@@ -1,0 +1,47 @@
+.container {
+    padding: 10px;
+}
+.search {
+    position: relative;
+    border: 1px solid #006699;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.search input[type="text"] {
+    width: 100%;
+    padding-right: 70px;
+    margin: 0;
+    height: 30px;
+    border: none;
+    background: none;
+}
+.search input[type="button"] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 60px;
+    height: 28px;
+    background: #006699;
+    font-size: 14px;
+    /*line-height: 30px;
+    text-align: center;
+    */color:#fff;
+    border-radius: 0;
+    border: 0;
+}
+.history-top {
+    color: #8f8f94;
+    font-size: 14px;
+    padding-bottom: 15px;
+}
+.history-top .title {
+
+}
+.history-top .clear {
+    font-size: 14px;
+    line-height: normal;
+}
+.history-top .mui-icon-trash::before {
+    margin-right: 5px;
+}

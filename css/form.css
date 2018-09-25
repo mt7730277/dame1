@@ -1,0 +1,16 @@
+.getCode {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 16px;
+    color: #006699;
+}
+.login-now {
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    color: #006699;
+}
+.mui-button-row .btn-row {
+    width: 100%;
+}
